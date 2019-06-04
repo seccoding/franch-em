@@ -2,7 +2,10 @@
   data : [
     {
       "title": "레이지데이지"
-      , "image": "gggg"
+      , "imageUrl": "gggg"
+      , "description": "레이지 데이지 입니다."
+      , "imageUrls": []
+      , "youtubeUrls": []
     }
   ]
 }
