@@ -7,7 +7,7 @@
       , "imageUrls": [
                       "https://github.com/seccoding/franch-em/blob/master/images.png?raw=true"
                       , "https://github.com/seccoding/franch-em/blob/master/images.png?raw=true"
-                      , "https://github.com/seccoding/franch-em/blob/master/images.png?raw=true"
+                      , "https://github.com/seccoding/franch-em/blob/master/maxresdefault.jpg?raw=true"
                      ]
       , "youtubeUrls": ["Kx1S5rnvbhk"]
     }
